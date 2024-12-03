@@ -9,7 +9,7 @@ Welcome to my GitHub profile! Here, you'll find a mix of creative projects, secu
 - **[ExtensionSpoofer](https://github.com/henriksb/ExtensionSpoofer)**  
   A tool designed to demonstrate file extension spoofing for cybersecurity awareness.  
 
-- **[Credit Card Security](https://github.com/henriksb/credit-card-security)**  
+- **[Credit Card Security](https://github.com/henriksb/creditcard-security)**  
   A deep dive into credit card fraud and prevention techniques.  
 
 - **[ZipCrack](https://github.com/henriksb/zipcrack)**  
