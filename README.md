@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Henrik Selje Bygnes
+# 👋 Greetings. I'm Henrik Selje Bygnes
 
 Welcome to my GitHub profile! Here, you'll find a mix of creative projects, security tools, and write-ups from my CTF adventures. I love tackling challenges in cybersecurity and building tools that make the world a little more interesting.
 
