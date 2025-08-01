@@ -1,6 +1,6 @@
 # 👋 Greetings. I'm Henrik Selje Bygnes
 
-Welcome to my GitHub profile! Here, you'll find a mix of creative projects, security tools, and write-ups from my CTF adventures. I love tackling challenges in cybersecurity and building tools that make the world a little more interesting.
+Welcome to my GitHub profile! Here, you'll find a mix of creative projects, security tools, and write-ups from my CTF adventures.
 
 ---
 
@@ -31,5 +31,5 @@ I’m constantly exploring new ideas in cybersecurity, forensics, and scripting.
 
 - Building tools for ethical hacking and automation.  
 - Writing more CTF write-ups to share my learnings with the community.  
-- Experimenting with creative side projects including arduino.
+- Experimenting with creative side projects including arduino and raspberry.
 
